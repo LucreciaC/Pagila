@@ -133,8 +133,6 @@ El dashboard final permite monitorear la salud del negocio en tiempo real a trav
 ### Vista General (KPIs)
 Métricas principales que encabezan el reporte:
 
-![KPIs Dashboard](https://github.com/user-attachments/assets/kpis-dashboard.png)
-
 - **Ingresos Totales:** US$22,961.92
 - **Cantidad de Alquileres:** 5,505 transacciones
 - **Ticket Promedio:** US$4.17
@@ -144,8 +142,6 @@ Métricas principales que encabezan el reporte:
 #### 1. Tendencias de Negocio
 Análisis temporal que muestra la evolución mensual de ingresos y patrones estacionales:
 
-![Tendencias Dashboard](https://github.com/user-attachments/assets/tendencias-dashboard.png)
-
 - Pico de ventas en julio (US$4,000+)
 - Estacionalidad clara con mayor actividad en verano
 - Análisis por categorías de películas
@@ -153,16 +149,12 @@ Análisis temporal que muestra la evolución mensual de ingresos y patrones esta
 #### 2. Rankings y Performance
 Top performers del negocio:
 
-![Rankings Dashboard](https://github.com/user-attachments/assets/rankings-dashboard.png)
-
 - **Top 10 Clientes:** Liderado por Diane Collins y Marcia Dean
 - **Top Películas:** "Dogma Family" y "Harry Idaho" como más rentables
 - **Rendimiento de Empleados:** Warner Hudson como top performer
 
 #### 3. Segmentación Geográfica
 Mapa interactivo de ventas por país:
-
-![Segmentación Geográfica](https://github.com/user-attachments/assets/segmentacion-dashboard.png)
 
 - Distribución entre EE.UU. (23.0k) y China (23.4k+)
 - Análisis de performance por tienda y ubicación
